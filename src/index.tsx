@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App';
+import Kapp from './components/Kapp';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Kapp />, document.getElementById('root'));
